@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Sciencekex/Sciencekex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [github-readme-stats-kappa-sable-31.vercel.app](https://github-readme-stats-sciencekexs-projects.vercel.app/)
--->
+
+
+
 [![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&langs_count=8&custom_title=最常用的语言排行榜)](https://github.com/anuraghazra/github-readme-stats)
