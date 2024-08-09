@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Sciencekex">
-    <img width="400" align="top" src="https://github.com/ZerolAcqua/ZerolAcqua/blob/master/metrics.svg" />
+    <img width="400" align="top" src="https://github.com/Zero/Zero/blob/master/metrics.svg" />
   </a>
   &emsp;
 </p>
