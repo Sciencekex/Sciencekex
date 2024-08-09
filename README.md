@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[github-readme-stats-kappa-sable-31.vercel.app](https://github-readme-stats-sciencekexs-projects.vercel.app/)
 -->
-[![Sciencekex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sciencekex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&)](https://github.com/anuraghazra/github-readme-stats)
