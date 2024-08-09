@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&theme=solarized-light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&langs_count=8&custom_title=最常用的语言排行榜&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&langs_count=8&custom_title=最常用的语言排行榜)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="center">
   <a href="https://github.com/Sciencekex">
