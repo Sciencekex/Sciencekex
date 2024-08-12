@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&langs_count=8&custom_title=最常用的语言排行榜&locale=cn&hide_border=true&)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
 
 
-&exclude_repo=Xidian-moeCTF-Annex
+&exclude_repo=My-friend-s-Bili-account-page-archive,Xidian-moeCTF-Annex
 
 
 <!-- <p align="center">
