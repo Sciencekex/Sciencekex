@@ -3,7 +3,7 @@
 
 **Sciencekex/Sciencekex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Blog's site:www.koishi-touhou.top
+My Blog's site: www.koishi-touhou.top
 
 Here are some ideas to get you started:
 
