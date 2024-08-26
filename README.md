@@ -3,6 +3,12 @@
 
 **Sciencekex/Sciencekex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+头像出自VRChat中帕秋莉角色的一个自拍截图
+
+The avatar was taken from a selfie of Patchouli's character on VRChat
+
+
+
 My Blog's site: www.koishi-touhou.top
 
 Here are some ideas to get you started:
