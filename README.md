@@ -11,6 +11,10 @@ The avatar was taken from a selfie of Patchouli's character on VRChat
 
 My Blog's site: www.koishi-touhou.top
 
+你可以在 个人博客网站/CSDN/知乎/B站/博客园 看到我写的东西
+
+You can see my writing on my personal blog site /CSDN/ Zhihu / bilibili / CNblog
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
