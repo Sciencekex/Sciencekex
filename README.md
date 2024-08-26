@@ -5,9 +5,9 @@
 
 
 
-The avatar was taken from a selfie of Patchouli's character on VRChat 
-
 头像出自VRChat中帕秋莉角色的一个自拍截图
+
+The avatar was taken from a selfie of Patchouli's character on VRChat 
 
 
 
