@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+**夢は、ブロガーを追って日本に移住し、フロントエンド開発者として働くことです。**
+
 
 [![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
 [![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&langs_count=8&custom_title=最常用的语言排行榜&hide_border=true&exclude_repo=My-friend-s-Bili-account-page-archive,Xidian-moeCTF-Annex)](https://github.com)
