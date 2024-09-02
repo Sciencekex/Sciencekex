@@ -1,34 +1,46 @@
-## Hi there 👋
+## こんにちは 👋
+
+> リードミーの言語について：
+>
+> 「なぜ日本語を選ぶ？」「それはね，日本語は中国語と英語の子供だと思うんのだ😊」
+>
+> 私について：
+>
+> 中国の普通大学でComputer Scienceを専攻する学生。
+
+Avatarは VRChat のcharacter Patchouliの自撮りscrenn shotからの物のだ。
+
+私のblogのsite: www.koishi-touhou.top
+
+私が書いた内容は、個人的なblog site/CSDN/Zhihu/Bilibili/Blog Park でご覧いただけます。
+
+> **将来の夢は、あるup主を追って日本に移住し、full stack engineerとして働くことです。**
+>
+> 
+>
+> 将来についての考え:
+>
+> 家庭の事情が許せば、日本に行って情報学の修士号を取得し、その後日本で就職してください。
+>
+> 家庭の事情がそれをsupportできない場合は、中国で数年間働き、その後仕事を見つけるために日本に移住することもできます。
+>
+> 
+>
+> 業界の立場についての考え:
+>
+> 国内の雇用情勢が厳しい場合は、まず数年間cyber securityの職に就き、その後開発職に異動し、その後日本に行って開発をするという「曲線救國」がある。
+>
+> 
+>
+> 現在の学習計画について：
+>
+> 学校のcurriculumはJavaのback end開発を学ぶことになっているため、contestではcyber securityのskillを学ぶ必要があり、将来の就職にもfront end開発は必要性があるのだ。
+>
+> したがって、現在の方向性は、Java back end + CTF 競争 + 少しのfront end開発です。
+>
+> 時間配分は学期中の授業状況によって異なりますので、柔軟に対応してくださるのだ。
 
 
-**Sciencekex/Sciencekex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-头像出自VRChat中帕秋莉角色的一个自拍截图
-
-The avatar was taken from a selfie of Patchouli's character on VRChat 
-
-
-
-My Blog's site: www.koishi-touhou.top
-
-你可以在 个人博客网站/CSDN/知乎/B站/博客园 看到我写的东西
-
-You can see my writing on my personal blog site /CSDN/ Zhihu / bilibili / CNblog
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-**夢は、ブロガーを追って日本に移住し、フロントエンド開発者として働くことです。**
 
 
 [![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
