@@ -12,7 +12,7 @@ Avatarは VRChat のcharacter Patchouliの自撮りscrenn shotからの物のだ
 
 私のblogのsite: www.koishi-touhou.top
 
-私が書いた内容は、個人的なblog site/Zhihu/Bilibili/Blog Park/CSDN でご覧いただけます。
+私が書いた内容は、個人的なblog site/Zhihu/Bilibili/CN Blog/CSDN でご覧いただけます。
 
 > **将来の夢は、あるup主を追って日本に移住し、full stack engineerとして働くことです。**
 >
