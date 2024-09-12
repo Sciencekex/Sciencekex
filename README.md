@@ -8,7 +8,7 @@
 >
 > 中国の普通大学でComputer Scienceを専攻する学生。
 
-Avatarは VRChat のcharacter Patchouliの自撮りscrenn shotからの物のだ。
+Avatarは VRChat のcharacter Patchouliの自撮りからの物のだ。
 
 私のblogのsite: www.koishi-touhou.top
 
