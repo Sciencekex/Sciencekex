@@ -1,16 +1,112 @@
-## Hi there 👋
+## こんにちは 👋
 
-<!--
-**Sciencekex/Sciencekex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ロール情報
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+|     基本情報     | パチュリー・ノーレッジ                                       |
+| :--------------: | ------------------------------------------------------------ |
+|  **人物の名前**  | パチェ · ノレギ                                              |
+|     **和名**     | パチュリー・ノーレッジ                                       |
+| **その他の翻訳** | パチョリ · ノレギ, パチェリー · ノレギ                       |
+|    **英語名**    | パチョリ知識                                                 |
+|     **競走**     | 魔女(Cuimeng)マジシャン (知識を求めて)。                     |
+|     **職業**     | 魔女                                                         |
+|     **能力**     | 火+水+木+金属+土+太陽+月の度合いを操作する能力(レッドデビルタウンシップ)。 魔法(主にエルフの魔法)をレベル(ツイドリーム)まで使用する能力。 魔法を使う能力(大地霊殿)。 (知識を求める)の範囲で魔法(主に属性)を使用する能力。 |
+
+### キャラクター紹介
+
+パチェ・ノレキは東方Projectシリーズの公式キャラクターで、[東方の赤魔郷](https://www.thwiki.cc/东方红魔乡)に初登場し、赤魔郷の四面ボスとEX顔ボスとして活躍しています。
+[彼女はレッドデビルパビリオンの大きな図書館](https://www.thwiki.cc/红魔馆大图书馆)に住んでいる魔女(マジシャン)で、魔法がとても上手です。
+パチョリは静かで陰気で、人に不親切ですが、彼女の心は暗くありません[[スカーレットファンタジーキャラクター紹介](https://www.thwiki.cc/黄昏边境/东方绯想天/chara#帕秋莉-1)]、彼女の性格はあまりポジティブではなく、彼女はしばしば自分の道を進み、抜け目なく好奇心旺盛です[[Cuimengキャラクター設定](https://www.thwiki.cc/附带文档:东方萃梦想/上海爱丽丝通信#帕秋莉·诺蕾姬)]、そして次のように知られていますレッドデビルパビリオン[[ShiJi](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]の心。
+レッドデビルタウンシップにいた後、[オリエンタルドリーム](https://www.thwiki.cc/东方萃梦想)、[オリエンタルスカーレットファンタジー](https://www.thwiki.cc/东方绯想天)、[オリエンタルノンファンタジー](https://www.thwiki.cc/东方非想天则)にもセルフマシンとして登場し、公式出版物にも登場しました。
+
+#### 生活状況
+
+パチェは[レッドデビルパビリオンの大図書](https://www.thwiki.cc/红魔馆大图书馆)室に住んでおり、基本的には家にいます【[崔夢キャラクター設定](https://www.thwiki.cc/附带文档:东方萃梦想/上海爱丽丝通信#帕秋莉·诺蕾姬)】。
+彼女のほとんどの時間は、本を読んだり、新しい魔法を開発したりすることに費やされています。
+同時に、彼女は自分が作り出した魔法を記録するための魔法の本も書いています。 [[シジ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]。
+
+- 図書館には、魔法の本(彼女が書いたものを含む)から[外界](https://www.thwiki.cc/外面世界)のさまざまな本まで、さまざまな本のコレクションがあります。 [[シジ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]。
+
+知識が豊富なパチェは、レッドデビルパビリオン用のアイテム(現実では直接入手するのが難しいアイテムが多い)【[マーチスピリットS16](https://www.thwiki.cc/东方三月精_～_Strange_and_Bright_Nature_Deity./第十六话#P6)】を作ってくれます。
+[レミリア・スカーレット](https://www.thwiki.cc/蕾米莉亚·斯卡蕾特)と同じく、パチェは紅茶【[エッセンスドリーム](https://www.thwiki.cc/游戏对话:东方萃梦想/十六夜咲夜#Ending_No._05)】を日常の飲み物として使っている。
+
+#### キャラクターの能力
+
+パチェは**魔法(主に属性とエルフの魔法)を使用する能力**を持っており、彼女の魔法は主に**火、水、木、金、地、太陽、月の**7つの属性で構成されています。
+
+- 属性魔法は、エルフとエルフの力を借りて形成されます。 [[シジ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]。
+- 彼女はまた、2つ以上の属性[[Shi Ji](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]を組み合わせて、長所を促進し、短所を回避する効果を発揮することもできます。
+- 彼女はエルフの魔法が得意で、麻薬の精製は得意ではありません [[オリエンタルブック\] [オリエンタルブック](https://www.thwiki.cc/东方书谱/内容2#2004年01月04日_2)]
+- 彼女はその週と連動して魔法を使うことに密かに興味を持っていますが、誰も気づいていません。 [[ツイ夢設定ドキュメント](https://www.thwiki.cc/附带文档:东方萃梦想/上海爱丽丝通信#帕秋莉·诺蕾姬)]。
+
+彼女は魔法の本を書くことができます。
+
+- 魔法の本を書くために使われた文字は、今日の人間が一般的に使っている文字ではなく、初期の日本の文字かもしれません。 [[シジ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]。
+
+パチェは通常、本の隣に滞在し、本から豊富な知識を得ています[[レッドデビルタウンシップ設定ドキュメント](https://www.thwiki.cc/附带文档:东方红魔乡/Omake#帕秋莉·诺蕾姬)]。
+
+- しかし、本だけに頼っていることによる間違いもたくさんあります。 [[ツイ夢設定ドキュメント](https://www.thwiki.cc/附带文档:东方萃梦想/上海爱丽丝通信#帕秋莉·诺蕾姬)]。
+
+パチェは身体能力がほとんどない「[シジ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)」で、白兵戦には対応しにくい【[赤魔郷設定資料](https://www.thwiki.cc/附带文档:东方红魔乡/Omake#帕秋莉·诺蕾姬)集』。
+
+- 彼女は虚弱で、喘息と貧血に苦しんでいました。 「[赤い悪魔の郷」セットアップドキュメント](https://www.thwiki.cc/附带文档:东方红魔乡/Omake#帕秋莉·诺蕾姬)。
+
+魔女として、彼女は驚くべき魔法の力を持っています。 「[赤い悪魔の郷」セットアップドキュメント](https://www.thwiki.cc/附带文档:东方红魔乡/Omake#帕秋莉·诺蕾姬)。
+
+#### 物理的特徴
+
+パチェは身長の低いキャラクターで[[ZUNのメール返信](https://www.thwiki.cc/ZUN/邮件答复的备份#=-20)]、その容姿は人間[[シキ](https://www.thwiki.cc/东方求闻史纪/帕秋莉·诺蕾姬)]と変わらない。
+彼女の体はひらひらと動き、痩せ細り、白い肌をしていた。 [[東の夜明け](https://www.thwiki.cc/东方的黎明#单个提问)]
+彼女は長い髪をしていて、スカーレットファンタジー、ノンファンタジー、ニューハーフの名声で腰の高さにあり、夢の中で胸にぶら下がっている2つの束を身に着けており、世界の歴史の中で足首に達します。 テンプルの前髪は、パープル/レッド、シアン/ブルーのリボンで結ばれています。 彼はピンクパープルのフリルの帽子をかぶり、黄色の三日月形の飾りが付いています。 彼女は帽子を通して球根状の髪にリボンを巻いてマナを増やしており、Red Devil Country and Dreamではシアンと紫、Scarlet FantasyとUnimaginedでは赤と紫、Shemale Legendでは赤と青です。
+彼女はパジャマのような「[東の夜明け](https://www.thwiki.cc/东方的黎明)」のローブを着ていて、内側と外側がピンクパープルで、内側のローブにはライラックとダークパープルのストライプが入っていました。
+
+- ZUNは、服にストライプがないトワイライトフロンティアのドラフト設定を提供し、いつの間にか「[ファンタジア](https://www.thwiki.cc/幻想曲拔萃/光盘#海原海豚-7)」ができていました。
+- 赤い悪魔の国の絵のパチェ・リーの服の紫色の縞模様は、*服のひだの影を表し*ている可能性が高いです。
+
+知識を求めるクロニクルでは、彼女はメリージェーンの靴を履いています。 レディボーイレジェンドでは、彼女は左が赤、右が黄色のリボンが付いた白いブーツを履いています。
+
+- レッドデビルタウンシップ
+- 夢
+- スカーレット&感受性なし
+- 歴史について聞くことを求める
+- 儚月抄
+- ニューハーフの名前
+
+#### 対人関係
+
+パチェは[レミリア・スカレット](https://www.thwiki.cc/蕾米莉亚·斯卡蕾特)の良き友人で、二人は愛情を込めて「レミー」と「パッツィ」というニックネームで呼び合い、パチェはしばしばレミリアのわがままな要求に甘やかします。
+
+- パチェは[レッドデビルパビリオン](https://www.thwiki.cc/红魔馆)に住んでおり、問題や困難が発生した場合にレミリアを助けますが、2人は雇用関係にありません。
+- *[十六夜咲夜](https://www.thwiki.cc/十六夜咲夜)はかつて[森金麟之助](https://www.thwiki.cc/森近霖之助)にパチョリを「女性の魔術師の友人」[[光林堂](https://www.thwiki.cc/东方香霖堂/第17话/中日对照#=-47)]と表現しました。*
+
+パチェはレミリアが見守るのを助け、[フランドレル・スカーレット](https://www.thwiki.cc/芙兰朵露·斯卡蕾特)がレッドデビルパビリオン【[レッドデビルヴィレッジ](https://www.thwiki.cc/附带文档:东方红魔乡/Omake#附带的后记)】を出るのを防ぎます。
+
+咲夜、[赤美鈴](https://www.thwiki.cc/红美铃)、そしてホールの妖精メイドもパチョウリの命令に従います。
+
+[霧雨マリサ](https://www.thwiki.cc/雾雨魔理沙)のスペルカード[愛護符「無指向性レーザー」は](https://www.thwiki.cc/恋符「Non-Directional_Laser」)、赤い悪魔の村人リパチュリの無指向性レーザーをコピーしたものです。
+魔理沙はよくパチョリの大きな図書館から本を盗む(「借りている」と主張している)。 [[文華ポスト(本)、](https://www.thwiki.cc/东方文花帖（书籍）/雾雨魔理沙)[スカーレットファンタジー、](https://www.thwiki.cc/游戏对话:东方绯想天/十六夜咲夜/中日对照#Stage_1-25)[マーチエッセンスO](https://www.thwiki.cc/东方三月精_～_Oriental_Sacred_Place./第十五话)]。
+
+- そのため、パチェはしばしば魔理沙を「ネズミ」という言葉で呼ぶ。 [[翠孟](https://www.thwiki.cc/游戏对话:东方萃梦想/帕秋莉·诺蕾姬/中日对照#Stage_1-5)]。
+  - それに対応して、彼女は「猫」という言葉を咲耶[[Cui Dream](https://www.thwiki.cc/游戏对话:东方萃梦想/帕秋莉·诺蕾姬#Stage_2)]と美鈴[[Cui Dream](https://www.thwiki.cc/游戏对话:东方萃梦想/帕秋莉·诺蕾姬/对战#帕秋莉·诺蕾姬_击败_红美铃)]を指すために使用します。
+- パチェはマリサに本を貸さないと主張している[[マーチエッセンスO15](https://www.thwiki.cc/东方三月精_～_Oriental_Sacred_Place./第十五话#P19-4)]が、二人はかなり仲が良いようで、パチェは*[間欠泉騒動](https://www.thwiki.cc/东方地灵殿)の際にもマリサを支え*ている。
+
+原作では[小悪魔](https://www.thwiki.cc/小恶魔)は使命感がなく、完全自由である【[東洋書集](https://www.thwiki.cc/东方书谱/内容2#=-8)】が、***二次創作**では小悪魔をパチュアリの使者、使用人、秘書として設定することが多い*。
+
+
+
+
+[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=ja&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
+[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=My-friend-s-Bili-account-page-archive,Xidian-moeCTF-Annex&langs_count=6)](https://github.com)
+
+
+&langs_count=6
+
+<!-- <p align="center">
+  <a href="https://github.com/Sciencekex">
+    <img width="400" align="top" src="https://github.com/Zero/Zero/blob/master/metrics.svg" />
+  </a>
+  &emsp;
+</p> -->
+
