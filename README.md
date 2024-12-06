@@ -98,7 +98,7 @@
 
 
 [![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=ja&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
-[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=My-friend-s-Bili-account-page-archive,Xidian-moeCTF-Annex&langs_count=8)](https://github.com)
+[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=pie&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=My-friend-s-Bili-account-page-archive,Xidian-moeCTF-Annex&langs_count=12)](https://github.com)
 
 langs_count=6&
 &langs_count=6
