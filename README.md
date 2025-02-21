@@ -1,4 +1,4 @@
-[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?username=Sciencekex&locale=ja&show_icons=true)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
+[![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?locale=ja&username=Sciencekex&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
 [![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-extra-pins)
 
 
