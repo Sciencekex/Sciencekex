@@ -10,7 +10,7 @@
 
 
 [![Sciencekex's GitHub stats](https://github-readme-stats-sciencekexs-projects.vercel.app/api?locale=ja&username=Sciencekex&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=compact&size_weight=0.75&count_weight=0.25&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sciencekexs-projects.vercel.app/api/top-langs/?username=Sciencekex&layout=compact&size_weight=0.885&count_weight=0.115&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 私にできることなら 何でもするから!
 
