@@ -15,5 +15,5 @@
 私にできることなら 何でもするから!
 
 
-![代码量统计](./github-metrics.svg)
-
+//![代码量统计](./github-metrics.svg)
+<!-- ![代码量统计](./github-metrics.svg) -->
