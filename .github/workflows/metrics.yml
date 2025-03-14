@@ -1,24 +1,51 @@
+# 工作流名称
 name: Metrics
+
+# 触发条件
 on:
-  # 每天午夜触发
-  schedule: [{ cron: "0 0 * * *" }]
-  # 手动触发工作流
+  # 定时触发：每天凌晨3点运行
+  schedule: [{ cron: "0 3 * * *" }]
+  # 手动触发：允许通过 GitHub Actions 界面手动运行
   workflow_dispatch:
-  # 在 master 或 main 分支推送时触发
-  push:
-    branches: ["master", "main"]
+  # 推送触发：当 master 或 main 分支有推送时运行
+  push: { branches: ["master", "main"] }
+
+# 工作流任务
 jobs:
   github-metrics:
+    # 运行环境：使用最新的 Ubuntu 系统
     runs-on: ubuntu-latest
+    # 权限设置：允许写入内容
     permissions:
       contents: write
+    # 任务步骤
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # 你的 GitHub Token
+          # 需要以下权限：
+          #  - public_access（默认权限）
+          # 可选权限（根据需求添加）：
+          #  - read:org      （获取组织相关数据）
+          #  - read:user     （获取用户相关数据）
+          #  - read:packages （获取包相关数据）
+          #  - repo          （如果需要包含私有仓库）
           token: ${{ secrets.METRICS_TOKEN }}
-          # 启用语言插件
-          plugin_languages: yes
-          # 启用深度分析模式
-          plugin_languages_indepth: yes
-          # 显示代码行数和字节大小
-          plugin_languages_details: lines, bytes-size
+
+          # 基本配置
+          user: Sciencekex  # 目标用户或组织
+          template: classic  # 使用经典模板
+          base: header, activity, community, repositories, metadata  # 基础模块
+          config_display: large  # 显示模式：大尺寸
+          config_timezone: Asia/Shanghai  # 时区：亚洲/上海
+
+          # 语言插件配置
+          plugin_languages: yes  # 启用语言插件
+          plugin_languages_indepth: yes  # 启用深度分析模式
+          plugin_languages_details: lines, bytes-size  # 显示代码行数和字节大小
+          plugin_languages_categories: markup, programming  # 语言分类：标记语言和编程语言
+          plugin_languages_colors: github  # 使用 GitHub 默认语言颜色
+          plugin_languages_recent_categories: markup, programming  # 最近使用的语言分类
+          plugin_languages_recent_load: 300  # 最近语言分析的最大加载量
+          plugin_languages_sections: most-used  # 显示最常使用的语言
+          plugin_languages_threshold: 0%  # 语言显示阈值（0% 表示显示所有语言）
